@@ -15,7 +15,7 @@ class Categorias extends Migration
                 'unsigned' => TRUE,
                 'auto_increment' => TRUE
             ],
-            'titulos' => [
+            'titulo' => [
                 'type' => 'VARCHAR',
                 'constraint' => 255
             ],
